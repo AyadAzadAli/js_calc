@@ -1,0 +1,15 @@
+
+.move{
+    display: flex;
+    flex-direction: column;
+}
+.result{
+    border-radius: 5em;
+}
+.result:hover{
+    opacity: 0.8;
+    transition: 1s;
+}
+btn:hover{
+    opacity: 0.7;
+}
